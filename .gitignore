@@ -105,3 +105,10 @@ fabric.properties
 /target/**/*.*
 
 /target/**/*.lst
+/.idea/compiler.xml
+/convoi.iml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/vcs.xml
